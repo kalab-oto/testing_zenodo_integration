@@ -15,16 +15,11 @@
             "orcid": "0000-0003-3485-9377"
         }
     ],
-    "funding": [
+    "grants": [
       {
-        "award": {
-          "number": "22-05024S"
-        },
-        "funder": {
-          "id": "01pv73b02",
-          "name": "Czech Science Foundation"
-        }
+         "id": "01pv73b02::22-05024S"      
       }
+      
     ],
   "keywords": [
         "Tyxcyxcyxc",
