@@ -15,6 +15,17 @@
             "orcid": "0000-0003-3485-9377"
         }
     ],
+    "funding": [
+      {
+        "award": {
+          "number": "22-05024S"
+        },
+        "funder": {
+          "id": "01pv73b02",
+          "name": "Czech Science Foundation"
+        }
+      }
+    ],
   "keywords": [
         "Tyxcyxcyxc",
         "my yxccc keyword",
