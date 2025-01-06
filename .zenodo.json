@@ -1,7 +1,6 @@
 {
     "title": "Main data title",
     "description": " <p>T test descriptionasdasd yxc xycasdASda yxcy casdqweascyxc <br> line breaks<br> in a text,<br> use the br<br> This research was supported by the Grant Agency of the Czech Republic (project No. 22-05024S; Evolution of angel insects (Zoraptera): from fossils and comparative morphology to cytogenetics and transcriptomes). </p>  ",
-    
     "upload_type": "dataset",
     "license":"MIT",
     "creators": [
@@ -37,8 +36,9 @@
         }
     ],
   "keywords": [
-        "key",
-        "word",
-        "s"
+      "zoraptera",
+      "occurrence",
+      "biogeography",
+      "entomology"
     ]
 }  
