@@ -1,7 +1,3 @@
-This licence apply on repository excluding single data records in the dataset.
-Licence of the data is stored in `licence` column of the dataset and may be
-incompatible with MIT.
-
 MIT License
 
 Copyright (c) 2025 Oto Kaláb
@@ -23,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Warinng
+
+This licence apply on repository excluding single data records in the dataset.
+Licence of the data is stored in `licence` column of the dataset and may be
+incompatible with MIT.
