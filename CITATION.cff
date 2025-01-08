@@ -25,5 +25,5 @@ authors:
   given-names: Petr
   affiliation: Department of Biology and Ecology, Faculty of Science, University of Ostrava,
   orcid: 0000-0002-1739-0143
-title: "Zoraptera Occurrence Dataset from CITATION.cff"
-type: dataset
+title: "Zoraptera Occurrence Dataset"
+type: article
